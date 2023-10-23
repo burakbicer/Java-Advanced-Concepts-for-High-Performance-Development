@@ -1,4 +1,4 @@
-# Advanced Java Development
+# Advanced Java Developmen
 This is the repository for the LinkedIn Learning course Advanced Java Development. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Advanced Java Development][lil-thumbnail-url] 
